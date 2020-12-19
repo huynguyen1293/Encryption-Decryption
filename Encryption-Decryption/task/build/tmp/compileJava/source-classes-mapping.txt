@@ -1,0 +1,6 @@
+encryptdecrypt/Main.java
+ encryptdecrypt.Algorithm
+ encryptdecrypt.AlgorithmSolver
+ encryptdecrypt.Main
+ encryptdecrypt.ShiftAlg
+ encryptdecrypt.UnicodeAlg
